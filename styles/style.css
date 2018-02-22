@@ -12,7 +12,7 @@
 
 body
 {
-	background-image: url("back-doc.jpg");
+	background-image: url("../images/back-doc.jpg");
 	background-attachment: fixed;
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -48,7 +48,7 @@ body
 	width:100vw;
 	height:100vh;
 	padding-bottom: 40vh;
-	background-image: url("musician.jpg");
+	background-image: url("../images/musician.jpg");
 	background-repeat: no-repeat;
 	background-attachment: fixed;
 	background-size: cover;
