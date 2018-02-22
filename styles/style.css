@@ -209,7 +209,7 @@ a{
 
 body
 {
-	background-image: url("back-doc.jpg");
+	background-image: url("../images/back-doc.jpg");
 	background-attachment: fixed;
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -240,7 +240,7 @@ body
 {
 	width:100%;
 	padding-bottom: 40vh;
-	background-image: url("musician.jpg");
+	background-image: url("../images/musician.jpg");
 	background-repeat: no-repeat;
 	background-attachment: fixed;
 	background-size: cover;
@@ -374,7 +374,7 @@ h4{
 @font-face
 {
 	font-family: Elianto;
-	src:url("Elianto-Regular.otf");
+	src:url("../fonts/Elianto-Regular.otf");
 }
 
 .head-mod
