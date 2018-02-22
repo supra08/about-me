@@ -3,15 +3,15 @@
 	<about>
 		<title>About Me</title>
 		<inner>
-			<image>images/hack.png</image>
+			<image>./images/hack.png</image>
 			<text><div>Supratik Das</div></text>
 		</inner>
 		<inner>
-			<image>images/college.png</image>
+			<image>./images/college.png</image>
 			<text><div>Indian Institute of Technology, Roorkee</div></text>
 		</inner>
 		<inner>
-			<image>images/work.png</image>
+			<image>./images/work.png</image>
 			<text><div>SDSLabs</div><div>Geek Gazette</div></text>
 		</inner>
 	</about>
@@ -27,19 +27,19 @@
 	<interests>
 		<title>My Interests</title>
 		<inner>
-			<image>images/music.jpg</image>
+			<image>./images/music.jpg</image>
 			<text><div>Music</div></text>
 		</inner>
 		<inner>
-			<image>images/code.jpeg</image>
+			<image>./images/code.jpeg</image>
 			<text><div>Coding</div></text>
 		</inner>
 		<inner>
-			<image>images/basket.jpg</image>
+			<image>./images/basket.jpg</image>
 			<text><div>Basketball</div></text>
 		</inner>
 		<inner>
-			<image>images/ard.jpg</image>
+			<image>./images/ard.jpg</image>
 			<text><div>Arduino</div></text>
 		</inner>
 	</interests>
@@ -47,19 +47,19 @@
 	<contacts>
 		<title>Contact</title>
 		<inner>
-			<image>images/fb.png</image>
+			<image>./images/fb.png</image>
 			<text><div>Facebook</div></text>
 		</inner>
 		<inner>
-			<image>images/gplus.png</image>
+			<image>./images/gplus.png</image>
 			<text><div>Google Plus</div></text>
 		</inner>
 		<inner>
-			<image>images/git.png</image>
+			<image>./images/git.png</image>
 			<text><div>GitHub</div></text>
 		</inner>
 		<inner>
-			<image>images/insta.png</image>
+			<image>./images/insta.png</image>
 			<text><div>Instagram</div></text>
 		</inner>
 	</contacts>
