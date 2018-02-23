@@ -47,68 +47,25 @@
 	<contacts>
 		<title>Contact</title>
 		<inner>
+			<link>https://www.facebook.com/supratik.das.1614</link>
 			<image>./images/fb.png</image>
 			<text><div>Facebook</div></text>
 		</inner>
 		<inner>
+			<link>https://plus.google.com/u/0/+SupratikDas08</link>
 			<image>./images/gplus.png</image>
 			<text><div>Google Plus</div></text>
 		</inner>
 		<inner>
+			<link>https://github.com/supra08</link>
 			<image>./images/git.png</image>
 			<text><div>GitHub</div></text>
 		</inner>
 		<inner>
+			<link>https://www.instagram.com/supra.008/?hl=en</link>
 			<image>./images/insta.png</image>
 			<text><div>Instagram</div></text>
 		</inner>
 	</contacts>
 
 </content>
-
-<!--
-	<image>
-			<div class = 'progress'>
-			 <div class = "progress-circle over50 p80">
-				<span>80%</span>
-				<div class="left-half-clipper">
-					<div class="first50-bar"></div>
-					<div class = "value-bar"></div>
-				</div>
-			</div>
-		    </div>
-		   </image>
-		 	<text><div>HTML/CSS</div></text>
-		</inner>
-		<inner>
-			<image><div class = 'progress'>
-			 <div class = "progress-circle over50 p60">
-				<span>60%</span>
-				<div class="left-half-clipper">
-					<div class="first50-bar"></div>
-					<div class = "value-bar"></div>
-				</div>
-			</div></div></image>
-			<text><div>C++ and JAVA</div></text>
-		</inner>
-		<inner>
-			<image><div class = 'progress'>
-			 <div class = "progress-circle p35">
-				<span>35%</span>
-				<div class="left-half-clipper">
-					<div class="first50-bar"></div>
-					<div class = "value-bar"></div>
-				</div>
-			</div></div></image>
-			<text><div>PHP and MySQL</div></text>
-		</inner>
-		<inner>
-			<image><div class = 'progress'>
-			 <div class = "progress-circle p25">
-				<span>25%</span>
-				<div class="left-half-clipper">
-					<div class="first50-bar"></div>
-					<div class = "value-bar"></div>
-				</div>
-			</div></div></image>
-			<text><div>Android Studio</div></text>-->
